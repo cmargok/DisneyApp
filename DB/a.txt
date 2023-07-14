@@ -1,0 +1,20 @@
+-estado del pedido
+	tomado
+	alistado
+	facturado
+	enviado
+	entregado
+	pagado
+	cancelado
+	abonado
+	devuelto
+	pospuesto
+	error
+	
+-estado del empleado
+	activo
+	vacaiones
+	en permiso
+	enfermo
+	etc
+
